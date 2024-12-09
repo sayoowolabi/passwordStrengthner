@@ -1,2 +1,2 @@
 # passwordStrengthner
-My code to make a simple password strengthener using C.
+My code to make a simple password strengthener using python.
